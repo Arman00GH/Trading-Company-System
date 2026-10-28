@@ -1,0 +1,5 @@
+colorama
+openpyxl
+mysql-connector-python
+pymongo
+python-dotenv

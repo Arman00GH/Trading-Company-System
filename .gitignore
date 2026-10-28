@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and local environment configuration
+.env
+.env.*
+!.env.example
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local legacy data (may contain personal or private information)
+Users.json
+Products.json
+contracts.json
+company_balance.json
+balance_history.json
+
+# Generated reports
+profit_loss_chart.xlsx
